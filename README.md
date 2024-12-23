@@ -2,6 +2,7 @@
 📫 How to reach me:
   - Telegram: @Senderion
   - LinkedIn: /in/senderion13
+
 🌱 I’m currently learning: NextJS and NestJS
 <!--
 **Senderion13/Senderion13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
